@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e84aa7e5-db8d-4285-a65c-0c69c1385532)# Ex2 Conversion of the infix expression into postfix expression
+# Ex2 Conversion of the infix expression into postfix expression
 ## DATE:
 ## AIM:
 To write a C program to convert the infix expression into postfix form using stack by following the operator precedence and associative rule.
