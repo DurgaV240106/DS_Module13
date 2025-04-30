@@ -5,11 +5,17 @@ To write a C program to convert the infix expression into postfix form using sta
 
 ## Algorithm
 1.Start the program.
+
 2.Initialize a stack and set the top index to -1.
+
 3.Define the push() and pop() functions to add and remove elements from the stack.
+
 4.Define the priority() function to assign priorities to operators.
+
 5.Traverse the expression in the IntoPost() function, handling operands, parentheses, and operators.
+
 6.After processing the expression, pop and print any remaining operators from the stack.
+
 7.End.  
 
 ## Program:
