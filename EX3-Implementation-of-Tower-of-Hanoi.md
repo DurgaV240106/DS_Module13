@@ -5,7 +5,7 @@ To write a C program to implement Tower of Hanoi
 
 ## Algorithm
 1. Start the program.
-2. 
+ 
 2.Check if n is greater than 0
 
 3.Recursively move n-1 disks from source (x) to auxiliary (z) using destination (y).
