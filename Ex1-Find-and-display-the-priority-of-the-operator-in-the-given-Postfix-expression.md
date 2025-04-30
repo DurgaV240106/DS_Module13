@@ -19,7 +19,7 @@ Program to find and display the priority of the operator in the given Postfix ex
 Developed by: Durga V
 RegisterNumber: 212223230052 
 */
-```
+
 
 #include <stdio.h>
 #include<string.h>
@@ -62,7 +62,7 @@ int main()
        }
        }
    }
-   
+   ```
     return 0;
 }
 
