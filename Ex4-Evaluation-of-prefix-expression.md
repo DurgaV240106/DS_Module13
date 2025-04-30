@@ -4,6 +4,7 @@
 To write a C function to evaluate the given prefix expression using stack and print the output of the given prefix expression from the stack inside the function . 
 
 ## Algorithm
+
 1. Start
    
 2.Initialize an empty stack s with a variable top for tracking the stack index.
